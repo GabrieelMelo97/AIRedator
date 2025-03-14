@@ -2,7 +2,7 @@
 
 Um sistema inteligente para avaliação de redações utilizando agentes de IA e fluxos de trabalho automatizados.
 
-![Sistema](https://drive.google.com/file/d/1j2J_NFFtNn8EVW92bDxvU4FxZIjqLisc/view?usp=sharing)
+![Sistema](https://drive.google.com/uc?id=1j2J_NFFtNn8EVW92bDxvU4FxZIjqLisc)
 
 ## 📋 Sobre o Projeto
 
